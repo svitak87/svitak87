@@ -6,6 +6,5 @@ As a junior web developer and social communicator, I am an up-and-coming profess
 Currently, my tech profile meets the technical knowledge for configuring, routing, and deploying HTTP servers using technologies such as Node.js and Express. Likewise, direct connection with databases in PostgreSQL and MongoDB systems. On the client side, my skills are developed in the use of HTML, CSS, and JavaScript.
 
 I am excited to learn about your projects: svitakwe87@hotmail.com
-Here are some ideas to get you started:
 
 -->
